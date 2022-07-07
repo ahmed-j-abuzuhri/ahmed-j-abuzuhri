@@ -3,7 +3,7 @@
 
 ### A Passionate web developer from Palestine - Gaza:
 
-- I am a Web Developer .
+- I am Back-end Web Developer .
 - Specialized in PHP | Laravel .
 - I have extensive experience in developing high-quality websites .
 - I am currently working remotely developing websites on the Freelancer platform .
