@@ -1,4 +1,4 @@
-##  Howdy everybody, This is Ahmed a Back-End Web Developer 👋
+##  Hi, This is Ahmed a Back-End Web Developer 👋
 
 
 ### A Passionate web developer from Palestine - Gaza:
@@ -47,6 +47,52 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   </p>
+  
+ ## Projects:
+ ### An eCommerce Web Application ||| [eCommerce Code](https://github.com/ahmed-j-abuzuhri/laravel-ecommerce) 
+<p>In this project I developed an eCommerce Web Application using PHP-Laravel framework</p>
+<h4>This project contain many of features like:</h4>
+<ul>
+<li>Register, login and logout users</li>
+<li>Admin Dashboard: admin can apply all CRUD operation on  category, products, users, Customer Addresses, Shipping Companies, Supervisor and Coupon C</li>
+<li>Users can add products to cart to checkout, add Coupon To make a discount for his purchases, add new Addresses and You can get the purchase invoice in pdf format</li>
+<li>payment Methods</li>
+<li>Real time notifications</li>
+
+</ul>
+
+### School Managemet System ||| [School Managemet Code](https://github.com/ahmed-j-abuzuhri/school-managemet-system-php-Laravel.git)
+<p>In this project I developed School Managemet System  using PHP-Laravel framework</p>
+<h4>This project contain many of features like:</h4>
+<ul>
+<li>Student Registration Management</li>
+<li>Students Roll Generate</li>
+<li>Employee Leave Management</li>
+<li>Employee Attendance Management</li>
+<li>Employee Attendance Report</li>
+<li>Manage Students Result</li>
+<li>Student PDF Generate</li>
+<li>Employee Registration</li>
+<li>Manage Employees Salary</li>
+<li>Students ID Card Generate</li>
+</ul>
+
+
+### Educational Site  ||| [Educational Sitet Code](https://github.com/ahmed-j-abuzuhri/Educational-Site-php-Laravel.git)
+<p>In this project I developed an Educational Site  using PHP-Laravel framework</p>
+<h4>This project contain many of features like:</h4>
+<ul>
+<li>Register, login and logout users</li>
+<li>Admin Dashboard: admin can apply all CRUD operation on  category, courses, Videos, Quizzes and users </li>
+<li>Users can view courses, category, Videos and Submit Quizzes </li>
+
+</ul>
+
+
+
+
+
+
   
   
 
