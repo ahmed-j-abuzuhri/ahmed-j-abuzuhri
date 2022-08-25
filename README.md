@@ -49,7 +49,7 @@
   </p>
   
  ## Projects:
- ### An eCommerce Web Application ||| [eCommerce Code](https://github.com/ahmed-j-abuzuhri/laravel-ecommerce) 
+ ### An eCommerce Web Application ||| [eCommerce Code](https://github.com/ahmed-j-abuzuhri/laravel-ecommerce) 💻⌨💻
 <p>In this project I developed an eCommerce Web Application using PHP-Laravel framework.</p>
 <h4>This project contain many of features like:</h4>
 <ul>
@@ -61,7 +61,7 @@
 
 </ul>
 
-### School Managemet System ||| [School Managemet Code](https://github.com/ahmed-j-abuzuhri/school-managemet-system-php-Laravel.git)
+### School Managemet System ||| [School Managemet Code](https://github.com/ahmed-j-abuzuhri/school-managemet-system-php-Laravel.git) 💻⌨💻
 <p>In this project I developed School Managemet System  using PHP-Laravel framework.</p>
 <h4>This project contain many of features like:</h4>
 <ul>
@@ -78,7 +78,7 @@
 </ul>
 
 
-### Educational Site  ||| [Educational Sitet Code](https://github.com/ahmed-j-abuzuhri/Educational-Site-php-Laravel.git)
+### Educational Site  ||| [Educational Sitet Code](https://github.com/ahmed-j-abuzuhri/Educational-Site-php-Laravel.git) 💻⌨💻
 <p>In this project I developed an Educational Site  using PHP-Laravel framework.</p>
 <h4>This project contain many of features like:</h4>
 <ul>
